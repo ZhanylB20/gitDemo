@@ -4,5 +4,7 @@ public class ArafaJava {
 
         System.out.println("Hi World, let's pray to Allah always and forever");
 
+
+
     }
 }
