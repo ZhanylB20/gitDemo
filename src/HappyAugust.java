@@ -7,6 +7,8 @@ public class HappyAugust {
 
         System.out.println("I am  a Developer");
 
+        System.out.println("let's create a better world for each of us together")
+            
 
     }
 }
