@@ -4,5 +4,6 @@ public class HappyAugust {
 
         System.out.println("HappeMe");
 
+        System.out.println("I love Java" );
     }
 }
